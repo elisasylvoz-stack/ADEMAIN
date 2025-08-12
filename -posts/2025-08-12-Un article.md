@@ -4,8 +4,6 @@ Tittle: test de moi
 Subtitle: un test pour voir
 Published: true
 ---
-
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec metus mi, accumsan non rutrum eget, porta quis risus. Nam finibus lectus sed augue tempus maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam vel est purus. Etiam tempor felis quis finibus feugiat. Integer sagittis ut tellus at venenatis. Sed tempor odio tortor, quis placerat sapien varius id. Aliquam porttitor mauris non euismod feugiat. Phasellus orci dolor, commodo vitae erat eget, dapibus convallis mi. Praesent sed nisi vel turpis lacinia pulvinar. Vivamus tristique elit eget enim euismod accumsan.
 
 Proin congue lobortis velit, sed maximus metus efficitur in. Donec eleifend pharetra enim id luctus. Nunc ullamcorper est non ligula fringilla hendrerit quis a nunc. Proin eget eros et elit mattis porta ac vel augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut arcu neque, fringilla vel dapibus vitae, interdum ut leo. Vivamus fringilla vulputate risus, at suscipit lacus ornare at. Nam vel laoreet felis. Cras ultrices risus dictum quam viverra, a posuere est placerat. In ut semper tellus. Quisque sollicitudin tempor quam. Integer id leo non mi egestas consequat vitae id lorem. Donec imperdiet felis nec ex egestas, et lobortis urna blandit. Mauris ultrices justo eu iaculis fermentum. Donec sit amet erat mattis, elementum neque at, faucibus odio.
